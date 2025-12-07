@@ -1,6 +1,6 @@
 # Sarus-suite
 
- **Containers for HPC, native HPC performance with cloud-native flexibility.**
+ **Containers for HPC, native HPC performance with Cloud-Native flexibility.**
  Build once. Run anywhere, from your laptop to a supercomputer.
 
 ---
@@ -40,8 +40,8 @@ Repositories in this organization generally fall into one of these categories:
 * **Utilities & helpers**
   Scripts and tools to simplify setup, launching, or orchestration
 
-* **Examples & reference deployments**
-  Demonstrations of MPI jobs, GPU workloads, distributed applications, etc.
+* **Examples & documentation**
+  Demonstrations of components, and test containers for MPI jobs, GPU workloads, distributed applications, etc.
 
 * **Docs & templates**
   Best practices, configuration templates, and workflow documentation
@@ -52,7 +52,7 @@ Each repository should be **self‑contained** and documented individually.
 
 ## ⚡ Getting started
 
-1. Install and configure **Sarus** (see the Sarus documentation)
+1. Install and configure **Sarus-suite** (see the Sarus-suite documentation)
 2. Browse the repositories in this organization
 3. Follow the repo‑specific README
 4. Run with sarusctl commands or via Slurm integration
@@ -83,12 +83,12 @@ Sarus‑suite aims to be a **practical, welcoming space** for anyone running con
 
 ## 🔗 Useful links
 
-* Sarus homepage: [https://sarus-suite.github.io](https://sarus-suite.github.io)
-* Sarus source code: [https://github.com/sarus-suite](https://github.com/sarus-suite)
+* Sarus-suite homepage: [https://sarus-suite.github.io](https://sarus-suite.github.io)
+* Sarus-suite source code: [https://github.com/sarus-suite](https://github.com/sarus-suite)
 
 ---
 
 ## TL;DR
 
-**Sarus‑suite = Sarus + HPC extensions + shared best practices.**
+**Sarus‑suite = Podman + HPC extensions + shared best practices.**
 Portable containers. Native HPC performance. Cloud-Native power.
